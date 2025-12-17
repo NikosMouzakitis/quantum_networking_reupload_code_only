@@ -1,0 +1,86 @@
+\begin{thebibliography}{1}
+
+\bibitem{Khristo2020}
+Y. Khristo, B. Asaad, and N. Abdelbaki, ``Quantum networking, where it is headed,'' in \textit{Proc. 16th Int. Comput. Eng. Conf. (ICENCO)}, Cairo, Egypt, Dec. 2020, pp. 1–4.
+
+\bibitem{amer-routing}
+O. Amer, W. O. Krawec, and B. Wang, ``Efficient routing for quantum key distribution networks,'' in \textit{2020 IEEE Int. Conf. Quantum Comput. Eng. (QCE)}, 2020, pp. 137–146, doi: 10.1109/QCE49297.2020.00027.
+
+\bibitem{quantum-arch}
+R. Van Meter, R. Satoh, N. Benchasattabuse, K. Teramoto, T. Matsuo, M. Hajdušek, T. Satoh, S. Nagayama, and S. Suzuki, ``A quantum internet architecture,'' in \textit{2022 IEEE Int. Conf. Quantum Comput. Eng. (QCE)}, 2022, pp. 341–352.
+
+\bibitem{brief-intro}
+V. Valls, P. Promponas, and L. Tassiulas, ``A brief introduction to quantum network control,'' \textit{IEEE Commun. Mag.}, vol. 62, no. 10, pp. 48–53, Oct. 2024.
+
+\bibitem{repeater1}
+N. Benchasattabuse, M. Hajdušek, and R. V. Meter, ``Protocols for all-photonic quantum repeaters,'' in \textit{2023 IEEE Int. Conf. Quantum Comput. Eng. (QCE)}, Bellevue, WA, USA, 2023, pp. 314–315.
+
+\bibitem{net-chall-dqc}
+A. S. Cacciapuoti, M. Caleffi, F. Tafuri, F. S. Cataliotti, S. Gherardini, and G. Bianchi, ``Quantum internet: Networking challenges in distributed quantum computing,'' \textit{IEEE Netw.}, vol. 34, no. 1, pp. 137–143, Jan./Feb. 2020.
+
+\bibitem{pompilli}
+M. Pompili, C. Delle Donne, I. te Raa, B. van der Vecht, M. Skrzypczyk, G. Ferreira, L. de Kluijver, A. J. Stolk, S. L. N. Hermans, P. Pawełczak, W. Kozlowski, R. Hanson, and S. Wehner, ``Experimental demonstration of entanglement delivery using a quantum network stack,'' \textit{npj Quantum Inf.}, vol. 8, no. 1, p. 121, 2022.
+
+\bibitem{e-qnet}
+M. A. Khan, M. N. Aman, and B. Sikdar, ``Architecting the quantum future: Key devices and layers in quantum network design,'' in \textit{2024 IEEE Phys. Assurance Inspect. Electron. (PAINE)}, 2024, pp. 1–7.
+
+\bibitem{digital-twins}
+Z. Lv, C. Cheng, and H. Song, ``Digital twins based on quantum networking,'' \textit{IEEE Netw.}, vol. 36, no. 5, pp. 88–93, Sep. 2022.
+
+\bibitem{qkd-zhou}
+	H. Zhou, K. Lv, L. Huang and X. Ma, "Quantum Network: Security Assessment and Key Management," in \textit{IEEE/ACM Transactions on Networking}, vol. 30, no. 3, pp. 1328-1339, June 2022
+\bibitem{li-arch}
+Z. Li, K. Xue, J. Li, N. Yu, J. Liu, L. Wei, Q. Sun, and J. Lu, ``Building a large-scale and wide-area quantum internet based on an OSI-alike model,'' \textit{China Commun.}, vol. 18, no. 10, pp. 1–14, Oct. 2021.
+
+\bibitem{wehner-arch}
+W. Kozlowski, A. Dahlberg, and S. Wehner, ``Designing a quantum network protocol,'' in \textit{Proc. 16th Int. Conf. Emerg. Netw. Exp. Technol. (CoNEXT)}, New York, NY, USA, 2020, pp. 1–16.
+
+\bibitem{entagl-classic}
+A. S. Cacciapuoti, M. Caleffi, R. Van Meter, and L. Hanzo, ``When entanglement meets classical communications: Quantum teleportation for the quantum internet,'' \textit{IEEE Trans. Commun.}, vol. 68, no. 6, pp. 3808–3833, Jun. 2020.
+
+\bibitem{rfc}
+W. Kozlowski, S. Wehner, R. Van Meter, B. Rijsman, A. S. Cacciapuoti, M. Caleffi, and S. Nagayama, \textit{RFC 9340: Architectural Principles for a Quantum Internet}. RFC Editor, 2023.
+
+\bibitem{powergrid}
+Y. Zhou, Z. Tang, N. Nikmehr, P. Babahajiani, F. Feng, T. C. Wei, H. Zheng, and P. Zhang, ``Quantum computing in power systems,'' \textit{iEnergy}, vol. 1, no. 2, pp. 170–187, 2022.
+
+\bibitem{memories}
+M. K. Bhaskar, R. Riedinger, B. Machielse, D. S. Levonian, C. T. Nguyen, E. N. Knall, H. Park, D. Englund, M. Lončar, D. D. Sukachev, and M. D. Lukin, ``Experimental demonstration of memory-enhanced quantum communication,'' \textit{Nature}, vol. 580, pp. 60–64, 2020.
+
+\bibitem{depolar2}
+M. Urbanek, B. Nachman, V. R. Pascuzzi, A. He, C. W. Bauer, and W. A. de Jong, ``Mitigating depolarizing noise on quantum computers with noise-estimation circuits,'' \textit{Phys. Rev. Lett.}, vol. 127, no. 27, p. 270502, Dec. 2021.
+
+\bibitem{quantum-switch1}
+M. Caleffi and A. S. Cacciapuoti, ``Quantum switch for the quantum internet: Noiseless communications through noisy channels,'' \textit{IEEE J. Sel. Areas Commun.}, vol. 38, no. 3, pp. 575–588, Mar. 2020.
+
+\bibitem{advance-arch}
+M. Alshowkan, P. Evans, B. Williams, N. Rao, C. Marvinney, Y. Pai, B. Lawrie, N. Peters, and J. Lukens, ``Advanced architectures for high-performance quantum networking,'' \textit{J. Opt. Commun. Netw.}, vol. 14, pp. 493–499, 2022.
+
+\bibitem{space}
+L. Borgianni, D. Adami, and S. Giordano, ``Quantum networking for secure and reliable communication in space exploration,'' \textit{IEEE Commun. Mag.}, vol. 24, no. 10, pp. 70--76, Oct. 2024
+
+\bibitem{cvdv}
+	I. B. Djordjevic, "Hybrid CV-DV Quantum Communications and Quantum Networks," \textit{IEEE Access}, vol. 10, pp. 23284-23292, 2022
+\bibitem{bb84}
+C. H. Bennett and G. Brassard, ``Quantum cryptography: Public key distribution and coin tossing,'' in \textit{Proc. IEEE Int. Conf. Comput., Syst. Signal Process.}, 1984, pp. 175–179.
+
+\bibitem{depolarization}
+C. King, ``The capacity of the quantum depolarizing channel,'' \textit{IEEE Trans. Inf. Theory}, vol. 49, no. 1, pp. 221–229, 2003.
+
+\bibitem{dur-multipartite}
+J. Wallnöfer, A. Pirker, M. Zwerger, and W. Dür, ``Multipartite state generation in quantum networks with optimal scaling,'' \textit{Sci. Rep.}, vol. 9, no. 1, Art. no. 314, Jan. 2019.
+
+\bibitem{qutip}
+J. R. Johansson, P. D. Nation, and F. Nori, ``QuTiP 2: A Python framework for the dynamics of open quantum systems,'' \textit{Comput. Phys. Commun.}, vol. 184, p. 1234, 2013.
+
+\bibitem{qiskit}
+A. Javadi-Abhari et al., ``Quantum computing with Qiskit,'' arXiv:2405.08810, 2024. [Online]. Available: https://arxiv.org/abs/2405.08810
+
+\bibitem{superposition-orders-proof}
+S. Salek, D. Ebler, and G. Chiribella, ``Quantum communication in a superposition of causal orders,'' arXiv:1809.06655, 2018. [Online]. Available: https://arxiv.org/abs/1809.06655
+\bibitem{cisco}
+T. Szigeti, "An Introduction to Quantum Network Technologies", [Online]. Available: https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKETI-1301.pdf
+
+
+
+\end{thebibliography}
